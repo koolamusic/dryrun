@@ -59,3 +59,6 @@ You are to write a React Frontend Project following the `test.jpg` interface des
 ### Contributors
 Names of contributors goes here
 - **[Name]** `[github_username]`
+
+
+**Have a question ? use the [issues](https://github.com/koolamusic/anita/issues) [HERE](https://github.com/koolamusic/anita/issues)
